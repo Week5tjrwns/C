@@ -14,7 +14,7 @@ typedef struct Node {
 int deletenode = 0;
 
 Node* head = NULL;
-void insert_node_front(int a);//입력받은 a값에 따라 value 결정 
+void insert_node_front(int a);
 void insert_node_rear(int a);
 void delete_node(int a);
 void display(void);
@@ -106,8 +106,7 @@ void insert_node_front(int a)
 	NewNode->value = a;
 	if (head == NULL) {
 		head = NewNode;
-		return; // 첫 시행때 이 조건문에 걸리니까 이거 수행하고 나면 복귀
-	}
+		return; 	}
 	NewNode->next = head;
 	head = NewNode;
 }
