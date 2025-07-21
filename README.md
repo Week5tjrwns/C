@@ -1,23 +1,19 @@
-# My Project Title
-
-## Tech Stack
+# 🛠 Tech Stack
 
 ### 🔭 Studying
-<img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="30" height="30"/>  
-<img src="https://cdn.simpleicons.org/stmicroelectronics/0072C1" alt="STM32" width="30" height="30"/>  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-0072C1?style=flat-square&logo=stmicroelectronics&logoColor=white)
 
-### ⚡️ Use well
-<img src="https://cdn.simpleicons.org/c/00599C" alt="C" width="30" height="30"/>  
-<img src="https://cdn.simpleicons.org/avr/6E7F80" alt="AVR" width="30" height="30"/>  
+### ⚡️ Use Well
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-6E7F80?style=flat-square&logo=avr&logoColor=white)
 
-### 🛠 Tool
-<img src="https://cdn.simpleicons.org/stmicroelectronics/0072C1" alt="STM32" width="30" height="30"/>  
-<img src="https://cdn.simpleicons.org/microchip/EB2127" alt="Microchip" width="30" height="30"/>  
-<img src="https://cdn.simpleicons.org/visualstudio/5C2D91" alt="Visual Studio" width="30" height="30"/>  
-![Quartus II](https://img.shields.io/badge/Quartus%20II-0033A0?style=flat-square&logo=quartus&logoColor=white)  
-<img src="https://cdn.simpleicons.org/mathworks/0076A8" alt="MATLAB" width="30" height="30"/>  
-<img src="https://cdn.simpleicons.org/simulink/1D1989" alt="Simulink" width="30" height="30"/>  
-<img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="30" height="30"/>
+### 🧰 Tool
+![STM32](https://img.shields.io/badge/STM32-0072C1?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Microchip Studio](https://img.shields.io/badge/Microchip%20Studio-EB2127?style=flat-square&logo=microchip&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![Quartus II](https://img.shields.io/badge/Quartus%20II-0033A0?style=flat-square&logo=quartus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-1D1989?style=flat-square&logo=simulink&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" width="40" height="40"/>  
-<img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="40" height="40"/>
