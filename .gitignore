@@ -1,0 +1,4 @@
+*.swp
+Debug/
+*.vcxproj*
+*.user
